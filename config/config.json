@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "C:\\db\\database.sqlite"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "C:\\db\\test-database.sqlite"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "C:\\db\\production-database.sqlite"
+  }
+}
